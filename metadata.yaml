@@ -1,0 +1,30 @@
+_repo: The-Jew-and-American-Ideals_21835
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spargo, John
+    birthdate: 1876
+    deathdate: 1966
+    gutenberg_agent_id: '6824'
+    url: http://www.gutenberg.org/2009/agents/6824
+    wikipedia: http://en.wikipedia.org/wiki/John_Spargo
+description: ''
+gutenberg_issued: '2007-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21835'
+  lccn: '21005561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dearborn independent. International Jew'
+- !lcc 'DS'
+- !lcsh 'Jews -- United States'
+- !lcsh 'Protocols of the wise men of Zion'
+title: The Jew and American Ideals
+url: http://www.gutenberg.org/ebooks/21835
